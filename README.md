@@ -1,2 +1,4 @@
 # Coronavirus
-Visualisation of the spread of the Coronavirus, based on WHO data.
+Visualisation of the spread of the Coronavirus
+
+Data originated from WHO, taken from Kaggle.
